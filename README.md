@@ -1,3 +1,3 @@
 # Gestalt-article
 
-This is my second assignment - HTML & CSS - Layouting
+This is my third assignment - Design Introduction - Design Fundamentals
